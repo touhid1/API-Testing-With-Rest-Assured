@@ -27,7 +27,7 @@ src/test/java/api
 
 ## 🧪 Tech Stack
 
-- **Java 17+**
+- **Java 24**
 - **Rest Assured**
 - **JUnit 4.13.2**
 - **Maven**
@@ -40,8 +40,8 @@ src/test/java/api
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/touhid1/AutomationExercise.git
-cd AutomationExercise
+git clone https://github.com/touhid1/API-Testing-With-Rest-Assured/
+cd API-Testing-With-Rest-Assured
 ```
 
 ### 2. Install Dependencies
